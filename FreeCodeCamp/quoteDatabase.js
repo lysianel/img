@@ -45,4 +45,4 @@ const quoteDatabase = [
 	}
 ];
 
-export default quoteDatabase;
+export default {quoteDatabase};
