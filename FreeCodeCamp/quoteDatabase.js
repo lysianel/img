@@ -44,3 +44,5 @@ const quoteDatabase = [
 		author:"J.K. Rowling"
 	}
 ];
+
+export default quoteDatabase;
